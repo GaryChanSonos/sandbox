@@ -124,8 +124,6 @@ export GROOVY_HOME=/Users/gary.chan/.sdkman/candidates/groovy/current/bin/groovy
 export PATH=$PATH:~/.android-sdk-macosx/platform-tools/
 export VAGRANT_DEFAULT_PROVIDER=virtualbox
 export PYTHONSTARTUP="$HOME/.pythonrc.py"
-export SPOTIFY_KEY="garychansonos/US/AQCgVxgmDNTVdZxT8mQAUSRO2y0Mqs-qN9JGh3Gl3C8Ve-chqmlzfb6CLu0imbDNEBlB0y0wh3OcE1IL9-5sqY6wBGRGo1H_jb39CmLZaD1VZcnPdw3BVVnMzYgRwtYYgHY/1593743366806"
-export SPOTIFY_TOKEN="BQB_Bm_abL7_DCXUOcPxnoAXQVITdrAzq7FtB24vq7R9K53TGfc7rINYAMl5AIf-A4xTxJf-CihAYHu1eiJTJ7O-wy1bR00CoGtx8mmyLFjZ1mT6M08Qb0Fil0aW9JwrA5ZBrgdGuWxfd3re1tvCWg9tokeU1S0N_2EE4iWVFOVb5EmReQ4rd9hSGCfuf5rg1q2JvQOpuXs28Owv1GkUKtFtTVI59Szt45IfiDyfDuaF5wXI0mXxjFhGaV4zMxmArPpo"
 
 # Dynamo DB
 export DYNAMO_ENDPOINT="http://localhost:8000"
